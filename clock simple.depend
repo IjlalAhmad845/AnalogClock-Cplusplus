@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1504598351 source:c:\users\ahmad\desktop\trial\clock simple\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+
+1504618898 source:e:\bakup\users\ahmad\downloads\c++\clock simple\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+
+1504618898 source:f:\softwares\installed apps\my programs\programs\c++\completed\clock simple\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+
